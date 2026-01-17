@@ -15,10 +15,13 @@
 
 <!-- END BLUEPRINT-MANAGED README -->
 
+### This project requires [Blueprint](https://blueprint.zip)
 
-### You may either download the source code and build the blueprint itself, or download the pre-compiled file [here](https://github.com/JasonHorkles/darkenate/releases).
+### Download the pre-compiled theme [here](https://github.com/blueprint-community/extension-darkenate/releases)
 
-### If you encounter any bugs or have a suggestion, please create a [GitHub issue](https://github.com/JasonHorkles/darkenate/issues) rather than messaging me on Discord.
+### If you encounter any bugs or have a suggestion, please create a [GitHub issue](https://github.com/blueprint-community/extension-darkenate/issues)
+
+<br>
 
 ---
 
@@ -26,13 +29,31 @@ If you enjoy this extension and you make money from running a host, please consi
 
 ---
 
+<br>
+
 # Client
-![image](https://github.com/user-attachments/assets/fb70d233-44cb-4c97-add8-99552336ca88)
-![image](https://github.com/JasonHorkles/darkenate/assets/51760372/256c6990-3e39-4497-b78e-5eee23d1685f)
-![image](https://github.com/JasonHorkles/darkenate/assets/51760372/25525486-cc41-4fe5-a662-c37afb2e9421)
-![image](https://github.com/JasonHorkles/darkenate/assets/51760372/e9f25fb0-cbc3-445a-a29a-24d171f591e9)
-<img src="https://github.com/JasonHorkles/darkenate/assets/51760372/633cdae3-b627-4de0-8c5c-fe8bd874bde0" height="512">
+### Login
+![Login](https://github.com/user-attachments/assets/fb70d233-44cb-4c97-add8-99552336ca88)
+
+### Server Lists
+#### Your Servers
+![Your server list](https://github.com/JasonHorkles/darkenate/assets/51760372/256c6990-3e39-4497-b78e-5eee23d1685f)
+
+#### Others' Servers
+![Others' server list](https://github.com/JasonHorkles/darkenate/assets/51760372/25525486-cc41-4fe5-a662-c37afb2e9421)
+
+### Console
+#### Desktop
+![Console](https://github.com/JasonHorkles/darkenate/assets/51760372/e9f25fb0-cbc3-445a-a29a-24d171f591e9)
+
+#### Mobile
+<img src="https://github.com/JasonHorkles/darkenate/assets/51760372/633cdae3-b627-4de0-8c5c-fe8bd874bde0" height="512" alt="Console on mobile">
+
+<br>
 
 # Admin
-![image](https://github.com/user-attachments/assets/0d1d73bd-060a-4fee-b423-2f50c8814d75)
-![image](https://github.com/user-attachments/assets/7e6427bc-599c-46ae-8ba2-7404d1791e2d)
+### Overview
+![Overview](https://github.com/user-attachments/assets/0d1d73bd-060a-4fee-b423-2f50c8814d75)
+
+### Nodes
+![Nodes](https://github.com/user-attachments/assets/7e6427bc-599c-46ae-8ba2-7404d1791e2d)
