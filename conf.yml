@@ -4,7 +4,7 @@ info:
   name: "Darkenate"
   identifier: "darkenate"
   description: "A dark theme inspired by bloom.host's colors and the Recolor theme"
-  version: "v2.0.3-beta"
+  version: "v2.0.3"
   target: "beta-2026-01"
   author: "JasonHorkles"
   icon: "assets/icon.jpg"
