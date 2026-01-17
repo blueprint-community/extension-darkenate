@@ -1,30 +1,18 @@
-# Thank you for developing with Blueprint.
-# For documentation about conf.yml, refer to ptero.shop/dev/conf.
+# https://blueprint.zip/docs/configs/confyml
 
 info:
   name: "Darkenate"
   identifier: "darkenate"
   description: "A dark theme inspired by bloom.host's colors and the Recolor theme"
-  flags: ""
-  version: "v2.0.2"
-  target: "beta-A428-2"
+  version: "v2.0.3-beta"
+  target: "beta-2026-01"
   author: "JasonHorkles"
   icon: "assets/icon.jpg"
-  website: "https://github.com/JasonHorkles/darkenate"
+  website: "https://github.com/blueprint-community/extension-darkenate"
 
 admin:
   view: "admin/view.blade.php"
-  controller: ""
   css: "admin/admin.style.css"
-  wrapper: ""
 
 dashboard:
-  wrapper: ""
   css: "client/client.style.css"
-
-data:
-  directory: ""
-  public: ""
-
-database:
-  migrations: ""
